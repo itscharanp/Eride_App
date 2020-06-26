@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1080426215775",
+    "firebase_url": "https://eridedatastore-66d32.firebaseio.com",
+    "project_id": "eridedatastore-66d32",
+    "storage_bucket": "eridedatastore-66d32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080426215775:android:225be7e8dfdabb5c",
+        "android_client_info": {
+          "package_name": "com.example.welcome.eride_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080426215775-qh9lt48pd844lt033n4af5uliqkav50o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-3f5Fb3JT-z6UYcujwoF4fxE-vaT_d4M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
